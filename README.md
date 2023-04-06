@@ -12,3 +12,11 @@ WHEN I click the save button for that time block, it will be saved in local stor
 
 WHEN I refresh the page, it will saved the text. 
 
+## link to deployed application
+
+https://gaomaoyuan.github.io/simple-calendar/
+
+## Screenshot of the page
+
+![screencapture-file-Users-maoyuan-Desktop-simple-calendar-index-html-2023-04-06-11_40_33](https://user-images.githubusercontent.com/73092032/230429518-9d9d7be3-3f5e-47ab-99c3-dc0e4bc5f38c.png)
+
