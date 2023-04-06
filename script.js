@@ -34,10 +34,11 @@ function updateTimeBlocks() {
   // Get the current hour using Day.js
   var currentHour = dayjs().hour();
 
+
   // Loop through each time block and update its color based on its id
   $(".time-block").each(function() {
     var timeBlockHour = parseInt($(this).attr("id").split("-")[1]);
-
+    
     if (timeBlockHour < currentHour) {
       // Past hour
       $(this).addClass("past");
